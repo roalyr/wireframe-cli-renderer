@@ -68,4 +68,4 @@ renderer.render(scene, camera)
 
 ## License
 
-MIT License (See LICENSE.md)
+GPL License (See LICENSE.md)
