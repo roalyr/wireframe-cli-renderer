@@ -1,5 +1,7 @@
 # Wireframe CLI Renderer
 
+![Screenshot.png](Screenshot.png)
+
 A modular Python library for rendering 3D wireframe graphics directly in the terminal using ASCII/Braille characters and ANSI colors.
 
 ## Features
